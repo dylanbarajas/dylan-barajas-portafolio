@@ -3,15 +3,15 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Matt Dancho. All rights reserved.
+    copyright: © Dylan Barajas. All rights reserved.
     site_logo:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Matt
-    text2: Dancho
+    text1: Dylan
+    text2: Barajas
   plugins:
     css:
       - URL: css/main.css
@@ -33,21 +33,21 @@ params:
 menu:
   footer:
     - URL: '#about'
-      name: About
+      name: Sobre mí
       weight: 2
     - URL: '#portfolio'
-      name: Portfolio
+      name: Portafolio
       weight: 3
     - URL: '#contact'
-      name: Contact
+      name: Contáctame
       weight: 4
   header:
     - URL: '#about'
-      name: About
+      name: Sobre mí
       weight: 2
     - URL: '#portfolio'
-      name: Portfolio
+      name: Portafolio
       weight: 3
     - URL: '#contact'
-      name: Contact
+      name: Contáctame
       weight: 4

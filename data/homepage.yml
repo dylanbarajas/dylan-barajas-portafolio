@@ -7,13 +7,13 @@ showcase:
   title: "Hola, soy Dylan Barajas De Lima."
   subtitle: "Ing. Electrónico y Desarrollador de Software."
   description: "Tengo más de 2 años de experiencia trabajando en el área de desarrollo de software y páginas web. 
-  Actualmente me dedico paralelamente al e-commerce en dropshipping y creación de páginas de producto de alta conversión en Shopify."
+  Actualmente me dedico paralelamente al e-commerce y creación de páginas de producto de alta conversión en Shopify."
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/ecommerce.gif"
+    _2x: "img/showcase/ecommerce.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/ecommerce.gif"
+    _2x: "img/showcase/ecommerce.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -26,9 +26,6 @@ showcase:
 
     - icon: "github"
       URL: "https://github.com/dylanbarajas"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/dylanbarajasdl/"
@@ -47,7 +44,7 @@ about:
     </p>
     <p class="lead">
     <strong>Mi área de interés</strong> es el e-commerce, las ventas por impulso en redes sociales. Desarrollo funnels de ventas y páginas de producto de 
-    alta conversión para tiendas en línea ayudándolas a impulsar sus ventas por Meta (Facebook, Instagram) y TikTok. 
+    alta conversión para tiendas en línea ayudándolas a impulsar sus productos por Meta (Facebook, Instagram) y TikTok. 
     </p>
   button:
     icon: "icon-smile-fill"
@@ -61,8 +58,8 @@ about:
 experience:
   enable: true
   title: "Experiencia"
-  description: "Más de 2 años de experiencia ayudando a empresas a desarrollar software a la medida según sus necesidades, y ayudando a personas
-  a impulsar sus ventas en e-commerce."
+  description: "Más de 2 años de experiencia ayudando a empresas a desarrollar software a la medida según sus necesidades, 
+  y ayudando a personas a cambiar sus vidas por medio del e-commerce."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -143,8 +140,8 @@ client_and_work:
 
   works:
     - title: "Tienda en línea 2suppli"
-      description: "Este e-commerce es utilizado para la venta de productos en línea por medio de la modalidad dropshipping. Se desarrollan páginas de productos
-      de alta conversión para su venta en redes sociales."
+      description: "Este e-commerce se desarrolló para la venta de productos en línea por medio de la modalidad dropshipping. 
+      Se desarrollan páginas de productos de alta conversión y funnels de ventas para redes sociales."
       button:
         icon: "icon-arrow-right"
         btnText: "Ir a la página"
@@ -155,7 +152,7 @@ client_and_work:
       is_even: true
 
     - title: "Conjunto Playa Dormida - Sistema de ingreso de visitantes"
-      description: "Consistió en el desarrollo e implementación de una plataforma que facilita el control de acceso de visitantes a un conjunto residencial. Este sistema automatiza el proceso de registro, mejorando la seguridad y la eficiencia en el ingreso de personas. El sistema permite a los administradores gestionar el flujo de visitas de manera ágil y segura."
+      description: "Este desarrollo consistió en la implementación de una plataforma que facilita el control de acceso de visitantes a un conjunto residencial. El sistema permite a los administradores gestionar el flujo de visitas de manera ágil y segura."
       button:
         icon: "icon-arrow-right"
         btnText: "Ir a la página"
@@ -177,24 +174,24 @@ testimonial:
       position: "Jefe de software complementación financiera, Muebles Jamar"
       content: "Trabajar con Dylan como Analista de Software Junior fue una gran experiencia. Su atención al detalle y habilidad para identificar áreas de mejora en el software hicieron que el proceso fuera mucho más eficiente y efectivo. Su compromiso y capacidad para resolver problemas técnicos fueron fundamentales para el éxito de nuestro equipo"
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "img/testimonials/jenifer.png"
+        _2x: "img/testimonials/jenifer.png"
         
     - name: "Zoila Luna"
       position: "Administradora de empresa"
       content: "Trabajar en el proyecto del Sistema de Ingreso de Visitantes para el Conjunto Playa Dormida fue una experiencia gratificante. La plataforma que desarrollamos simplificó el control de acceso, incrementando tanto la seguridad como la eficiencia en el ingreso de visitantes. Fue emocionante ver cómo un sistema tan necesario hacía la gestión de visitas más rápida y segura para todos."
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+        x: "img/testimonials/zoila.png"
+        _2x: "img/testimonials/zoila.png"
 
     
 
     - name: "Jorge Mejía"
-      position: "Director del e-commerce, Muebles Jamar"
+      position: "Team Leader del e-commerce, Muebles Jamar"
       content: "Trabajar con Dylan ha sido clave para el éxito de mi e-commerce. Su experiencia en dropshipping y en la creación de páginas de productos de alta conversión me ayudó a mejorar mis ventas en redes sociales y a posicionarme mejor en Amazon. Recomiendo su apoyo a cualquiera que quiera destacar en el comercio electrónico."
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+        x: "img/testimonials/jorge.png"
+        _2x: "img/testimonials/jorge.png"
 
 # contact
 contact:
