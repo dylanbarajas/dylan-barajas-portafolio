@@ -178,7 +178,7 @@ testimonial:
         _2x: "img/testimonials/jenifer.png"
         
     - name: "Zoila Luna"
-      position: "Administradora de empresa"
+      position: "Administradora de empresas"
       content: "Trabajar en el proyecto del Sistema de Ingreso de Visitantes para el Conjunto Playa Dormida fue una experiencia gratificante. La plataforma que desarrollamos simplificó el control de acceso, incrementando tanto la seguridad como la eficiencia en el ingreso de visitantes. Fue emocionante ver cómo un sistema tan necesario hacía la gestión de visitas más rápida y segura para todos."
       image:
         x: "img/testimonials/zoila.png"
