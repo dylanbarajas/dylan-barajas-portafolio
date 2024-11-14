@@ -1,0 +1,230 @@
+head:
+  title: "Dylan Barajas De Lima - Portafolio."
+
+# showcase
+showcase:
+  enable: true
+  title: "Hola, soy Dylan Barajas De Lima."
+  subtitle: "Ing. Electrónico y Desarrollador de Software."
+  description: "Tengo más de 2 años de experiencia trabajando en el área de desarrollo de software y páginas web. 
+  Actualmente me dedico paralelamente al e-commerce en dropshipping y creación de páginas de producto de alta conversión en Shopify."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contacta a Dylan"
+    URL: "mailto:dylangiusep@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/dylan-barajas/"
+
+    - icon: "github"
+      URL: "https://github.com/dylanbarajas"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/dylanbarajasdl/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/dylan.barajas.9/"
+
+# about
+about:
+  enable: true
+  title: "¿Quién soy?"
+  content: 
+    <p class="lead">
+    <strong>Soy un apasionado por Jesucristo y su obra en la tierra. Siento que Dios me ha dado un don para resolver problemas lógicos, por lo tanto, me
+    encanta la programación, la tecnología y siento gran entusiasmo por los negocios digitales.
+    </p>
+    <p class="lead">
+    <strong>Mi área de interés</strong> es el e-commerce, las ventas por impulso en redes sociales. Desarrollo funnels de ventas y páginas de producto de 
+    alta conversión para tiendas en línea ayudándolas a impulsar sus ventas por Meta (Facebook, Instagram) y TikTok. 
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Sobre mí"
+    URL: "https://www.linkedin.com/in/dylan-barajas/"
+  image:
+    x: "img/who-am-i/dylan.jpg"
+    _2x: "img/who-am-i/dylan.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "Más de 2 años de experiencia ayudando a empresas a desarrollar software a la medida según sus necesidades, y ayudando a personas
+  a impulsar sus ventas en e-commerce."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/dylan-barajas/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Descarga mi Hoja de Vida"
+    URL: "https://drive.google.com/file/d/1wE2flqG4hf1o-470xcNaTHNld1icJ-jL/view?usp=sharing"
+
+  items:
+    - title: "Analista de Software Junior"
+      company: "Muebles Jamar"
+      duration: "Abril 2022 - Actualmente"
+
+    - title: "Tutor Académico E-commerce en Amazon"
+      company: "smartBeemo"
+      duration: "Enero 2024 - Junio 2024"
+
+# education
+education:
+  enable: true
+  title: "Educación"
+  items:
+    - university: "Universidad del Magdalena"
+      year: "2018-2025"
+      degree: "Ingeniero Electrónico"
+
+    - university: "Ministerio TIC - Correlation One"
+      year: "2022"
+      degree: "Analítica de Datos"
+      
+    - university: "Escuela Superior de Administración Pública"
+      year: "2022"
+      degree: "Ciencias de Datos"
+    
+    - university: "Universidad del Norte"
+      year: "2021"
+      degree: "Desarrollo de Aplicaciones Web"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portafolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Tienda en línea 2suppli"
+      description: "Este e-commerce es utilizado para la venta de productos en línea por medio de la modalidad dropshipping. Se desarrollan páginas de productos
+      de alta conversión para su venta en redes sociales."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ir a la página"
+        URL: "https://www.2suppli.com/"
+      image:
+        x: "img/works/2suppli.png"
+        _2x: "img/works/2suppli.png"
+      is_even: true
+
+    - title: "Conjunto Playa Dormida - Sistema de ingreso de visitantes"
+      description: "Consistió en el desarrollo e implementación de una plataforma que facilita el control de acceso de visitantes a un conjunto residencial. Este sistema automatiza el proceso de registro, mejorando la seguridad y la eficiencia en el ingreso de personas. El sistema permite a los administradores gestionar el flujo de visitas de manera ágil y segura."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ir a la página"
+        URL: "https://playadormida1.pythonanywhere.com/"
+      image:
+        x: "img/works/playadormida.png"
+        _2x: "img/works/playadormida.png"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonios"
+  items:
+  
+    - name: "Jenifer Carvajalino"
+      position: "Jefe de software complementación financiera, Muebles Jamar"
+      content: "Trabajar con Dylan como Analista de Software Junior fue una gran experiencia. Su atención al detalle y habilidad para identificar áreas de mejora en el software hicieron que el proceso fuera mucho más eficiente y efectivo. Su compromiso y capacidad para resolver problemas técnicos fueron fundamentales para el éxito de nuestro equipo"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Zoila Luna"
+      position: "Administradora de empresa"
+      content: "Trabajar en el proyecto del Sistema de Ingreso de Visitantes para el Conjunto Playa Dormida fue una experiencia gratificante. La plataforma que desarrollamos simplificó el control de acceso, incrementando tanto la seguridad como la eficiencia en el ingreso de visitantes. Fue emocionante ver cómo un sistema tan necesario hacía la gestión de visitas más rápida y segura para todos."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Jorge Mejía"
+      position: "Director del e-commerce, Muebles Jamar"
+      content: "Trabajar con Dylan ha sido clave para el éxito de mi e-commerce. Su experiencia en dropshipping y en la creación de páginas de productos de alta conversión me ayudó a mejorar mis ventas en redes sociales y a posicionarme mejor en Amazon. Recomiendo su apoyo a cualquiera que quiera destacar en el comercio electrónico."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contacta a Dylan"
+    
+  image:
+    x: "img/who-am-i/dylan_foto.jpg"
+    _2x: "img/who-am-i/dylan_foto.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Envíame un mensaje"
+    btnAction: 'mailto:dylangiusep@gmail.com'
+    
+  phone:
+    title: "Número de teléfono"
+    number: "+57 3013911087"
+  email:
+    title: "Email"
+    email: '<a href="mailto:dylangiusep@gmail.com">dylangiusep@gmail.com</a>'
+  address:
+    title: "Dirección"
+    address: "Santa Marta, Colombia"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
