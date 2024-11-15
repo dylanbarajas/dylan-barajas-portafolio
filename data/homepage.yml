@@ -170,7 +170,7 @@ client_and_work:
       image:
         x: "img/works/analisis.png"
         _2x: "img/works/analisis.png"
-      is_even: false
+      is_even: true
 
     
 
