@@ -161,8 +161,7 @@ client_and_work:
         x: "img/works/playadormida.png"
         _2x: "img/works/playadormida.png"
       is_even: false
-
-      - title: "Análisis estadístico"
+    - title: "Análisis estadístico"
       description: "Análisis estadístico de las ganancias de productos en dropshipping."
       button:
         icon: "icon-arrow-right"
