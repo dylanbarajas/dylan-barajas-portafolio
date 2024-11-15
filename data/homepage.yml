@@ -162,6 +162,17 @@ client_and_work:
         _2x: "img/works/playadormida.png"
       is_even: false
 
+      - title: "Análisis estadístico"
+      description: "Análisis estadístico de las ganancias de productos en dropshipping."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ir a la página"
+        URL: "https://ghzxmap5zf38jwg7l3snmy.streamlit.app/"
+      image:
+        x: "img/works/analisis.png"
+        _2x: "img/works/analisis.png"
+      is_even: false
+
     
 
 # testimonial
